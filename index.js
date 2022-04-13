@@ -3,7 +3,7 @@
     - Notifies Sentry of new releases being deployed.
     - Uploads source maps to Sentry.
     - Sends Sentry the commit SHA of HEAD to enable commit features.
-    - Blah blah
+    - Blah blah blaaaah
 */
 
 const fs = require('fs')
